@@ -1,8 +1,8 @@
 name = input("Enter your name : ")
 print("Hello " + name.capitalize() +".")
 balance = int(input("What is account balance right now? : "))
-print("Press '1' if you want to do deposit ")
-print("Press '2' if you want to withdraw : ")
+print("Press '1' if you want to do deposit.")
+print("Press '2' if you want to withdraw.  ")
 choice = input("Enter here : ")
 
 
